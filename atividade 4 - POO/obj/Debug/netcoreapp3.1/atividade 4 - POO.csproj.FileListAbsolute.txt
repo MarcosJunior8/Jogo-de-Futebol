@@ -1,0 +1,13 @@
+C:\Users\Marcos\source\repos\atividade 4 - POO\atividade 4 - POO\bin\Debug\netcoreapp3.1\atividade 4 - POO.exe
+C:\Users\Marcos\source\repos\atividade 4 - POO\atividade 4 - POO\bin\Debug\netcoreapp3.1\atividade 4 - POO.deps.json
+C:\Users\Marcos\source\repos\atividade 4 - POO\atividade 4 - POO\bin\Debug\netcoreapp3.1\atividade 4 - POO.runtimeconfig.json
+C:\Users\Marcos\source\repos\atividade 4 - POO\atividade 4 - POO\bin\Debug\netcoreapp3.1\atividade 4 - POO.runtimeconfig.dev.json
+C:\Users\Marcos\source\repos\atividade 4 - POO\atividade 4 - POO\bin\Debug\netcoreapp3.1\atividade 4 - POO.dll
+C:\Users\Marcos\source\repos\atividade 4 - POO\atividade 4 - POO\bin\Debug\netcoreapp3.1\atividade 4 - POO.pdb
+C:\Users\Marcos\source\repos\atividade 4 - POO\atividade 4 - POO\obj\Debug\netcoreapp3.1\atividade 4 - POO.csprojAssemblyReference.cache
+C:\Users\Marcos\source\repos\atividade 4 - POO\atividade 4 - POO\obj\Debug\netcoreapp3.1\atividade 4 - POO.csproj.CoreCompileInputs.cache
+C:\Users\Marcos\source\repos\atividade 4 - POO\atividade 4 - POO\obj\Debug\netcoreapp3.1\atividade 4 - POO.AssemblyInfoInputs.cache
+C:\Users\Marcos\source\repos\atividade 4 - POO\atividade 4 - POO\obj\Debug\netcoreapp3.1\atividade 4 - POO.AssemblyInfo.cs
+C:\Users\Marcos\source\repos\atividade 4 - POO\atividade 4 - POO\obj\Debug\netcoreapp3.1\atividade 4 - POO.dll
+C:\Users\Marcos\source\repos\atividade 4 - POO\atividade 4 - POO\obj\Debug\netcoreapp3.1\atividade 4 - POO.pdb
+C:\Users\Marcos\source\repos\atividade 4 - POO\atividade 4 - POO\obj\Debug\netcoreapp3.1\atividade 4 - POO.genruntimeconfig.cache
